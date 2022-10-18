@@ -1,2 +1,2 @@
-# dio-training
+# Treinamentos DIO
 Repositório dos treinamentos DIO
